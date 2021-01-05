@@ -39,7 +39,7 @@ create table department(department varchar(30), budget varchar(30));
 Run your project 
 You must follow this content otherwise you can't run the project 
 1. Add your library: MySQL JDBC Driver
-2.Add JAR in your library:rx2xml.jar
+ 2. Add JAR in your library:rx2xml.jar
 
 ALl classes you must be included in the package named hotel.management.system
 
