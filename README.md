@@ -1,5 +1,12 @@
 Project: Hotel Management System In Java
 
+Hotel Management System is a desktop based application made using Swing, a concept of Java Core and Database I have used is MySQL.
+This project to build a Desktop based application using Swing.
+Language Used -  Java Core 
+Concept Used - Swing
+Database Used - MySQL
+IDE Used - Netbeans
+
 Hotel management system is a free and open source project. 
 This application is pretty simple and easy to use. 
 The whole system is built in Java programming language with the help of NetBeans IDE. 
