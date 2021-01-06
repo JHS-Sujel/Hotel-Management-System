@@ -2,6 +2,7 @@ Project: Hotel Management System In Java
 
 Hotel Management System is a desktop based application made using Swing, a concept of Java Core and Database I have used is MySQL.
 This project to build a Desktop based application using Swing.
+
 Language Used -  Java Core 
 Concept Used - Swing
 Database Used - MySQL
